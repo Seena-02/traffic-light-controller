@@ -22,11 +22,11 @@ void GpioInit()
 
 void main()
 {
-    STyp *ptr; // State pointer
+    STyp *ptr;  // State pointer
     GpioInit(); // Initialize GPIO pins
     uint32_t Input;
     SysTick_Init(); // Initialize SysTick timer
-    ptr = goN; // Start state
+    ptr = goN;      // Start state
 
     while (1)
     {
