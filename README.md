@@ -6,6 +6,8 @@
 
 ## FSM Diagram
 
+![fsm](images/fsm.png)
+
 ## Demo
 
 ![demo](images/demo.gif)
